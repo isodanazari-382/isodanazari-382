@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+ <!-- Banner Image -->
 <p align="center">
   <img src="./banner.png" alt="Hosna Nazari Banner" width="100%" />
 </p>
